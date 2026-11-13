@@ -1,4 +1,5 @@
 # DevOps-Proj02
 
 ###### คณิศพัศณ์ จำเนียรพล 0931500588
+khanisphat@gmail.com
 
